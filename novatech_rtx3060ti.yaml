@@ -1,0 +1,9 @@
+---
+refresh_interval: 2 # seconds
+max_price: 500 # pounds
+urls:
+  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-eagle-oc-8gb-gddr6-graphics-card/gv-n306teagleoc-8gd.html
+  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6-graphics-card/gv-n306tgamingocpro-8gd.html
+  - https://www.novatech.co.uk/products/zotac-nvidia-geforce-rtx-3060-ti-twin-edge-oc-8gb-gddr6/zt-a30610h-10m.html
+  - https://www.novatech.co.uk/products/gigabyte-nvidia-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6-graphics-card/gv-n306tgamingoc-8gd.html
+...
